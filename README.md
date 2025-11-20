@@ -107,7 +107,7 @@ Built pivot tables for easy grouping, comparison and analysis of the dataset and
 </div>
 
 ---
-### 💡Key Insights and Takeaways
+### 🪞Reflection
 
 During the analysis, I explored customer behaviour, sales trends and product category performance.    
 **Key findings include:**
