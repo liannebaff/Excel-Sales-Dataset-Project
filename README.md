@@ -120,7 +120,7 @@ During the analysis, I explored customer behaviour, sales trends and product cat
 ### 📁 Files in This Repository
 - [Retail_Sales_Dataset_Analysis.xlsx](files/retail_sales_dataset_analysis.xlsx)
 &nbsp;  
-  **Worksheets**
+  **Worksheets:**
   - <small><strong>Retail_Sales_Dataset:</strong> processed and analysed sales data.</small>
   - <small><strong>Sales by Gender and Product Category:</strong> pivot table and chart summarising sales</small>  
   - <small><strong>Sales by Generation and Product Category:</strong> pivot tables and charts summarising sales</small>  
