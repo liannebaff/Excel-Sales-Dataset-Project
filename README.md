@@ -118,7 +118,7 @@ During the analysis, I explored customer behaviour, sales trends and product cat
 
 ---
 ### 📁 Files in This Repository
-- [Retail_Sales_Dataset_Analysis.xlsx](files/retail_sales_dataset_analysis.xlsx)
+- **[Retail_Sales_Dataset_Analysis.xlsx](files/retail_sales_dataset_analysis.xlsx)**
 &nbsp;  
   **Worksheets:**
   - <small><strong>Retail_Sales_Dataset:</strong> processed and analysed sales data.</small>
