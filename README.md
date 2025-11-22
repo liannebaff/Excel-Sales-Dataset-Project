@@ -1,7 +1,7 @@
 # 🛍️ Retail Sales Dataset Project
 
 ### 📝 Project Summary
-This repository contains an Excel-based analysis of a synthetic retail sales dataset. The project demonstrates core data analysis skills in Excel, including data transformation, pivot charts/graphs and VLOOKUP. The aim of this project was to practice essential data analytics techniques and extract insights from the dataset.
+This repository contains an Excel-based analysis of a synthetic retail sales dataset. The project demonstrates core data analysis skills in Excel, including data transformation, PivotTables/PivotCharts and VLOOKUP. The aim of this project was to practice essential data analytics techniques and extract insights from the dataset.
 
 ### 🎯 Key skills demonstrated:
 `Data exploration` `Data transformation` `Pivot tables and charts (with slicers)` `VLOOKUP` `Conditional Formatting`
@@ -25,9 +25,9 @@ The dataset contains synthetic sales transactions for a retail store, including 
 #### ☑️ Conditional Formatting
 - Applied conditional formatting to highlight the highest and lowest total sales values to identify the highest- and lowest-performing product categories.
   
-#### ☑️ Pivot Tables and Charts
-- Built pivot tables to analyse sales by gender and product category and sales by generation and product category.
-- Created charts (stacked column and clustered column charts) to visualise data.
+#### ☑️ PivotTables and PivotCharts
+- Built PivotTables to analyse sales by gender and product category and sales by generation and product category.
+- Created PivotCharts (stacked column and clustered column charts) to visualise data.
 - Added slicers to pivot tables to enable interactive filtering by gender, generation and product category.
 ---
 ### 🧩Process
@@ -86,8 +86,8 @@ Used `VLOOKUP` to pull total sales and product category using the transaction ID
  <img width="1097" height="328" alt="image" src="https://github.com/user-attachments/assets/2d8b9728-2ddb-4979-bd6a-a82b18825837" />
 
 
-#### 🔀 Pivot Tables
-Built pivot tables for easy grouping, comparison and analysis of the dataset and added slicers for interactive filtering.
+#### 🔀 PivotTables
+Built PivotTables for easy grouping, comparison and analysis of the dataset and added slicers for interactive filtering.
   
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **a) Sales by Gender & Product Category** | **Rows =** Product Category, **Columns =** Gender and **Values =** sum of Sale Total <br> <br>
       <img width="380" height="130" alt="image" src="https://github.com/user-attachments/assets/ef5b6977-d126-452e-9647-c6d286e83182" />
@@ -96,8 +96,8 @@ Built pivot tables for easy grouping, comparison and analysis of the dataset and
       <img width="617" height="457" alt="image" src="https://github.com/user-attachments/assets/23dd53ff-9a2f-45dc-b7b0-a4512b1e2816" />
 
 
-#### 📊 Pivot Charts
-- Created pivot charts to visualise insights clearly.
+#### 📊 PivotCharts
+- Created PivotCharts to visualise insights clearly.
   - Clustered column chart comparing product category sales across gender.
   - Stacked column chart illustrating sales distribution by category and generation.
 
