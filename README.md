@@ -26,8 +26,8 @@ The dataset contains synthetic sales transactions for a retail store, including 
 - Applied conditional formatting to highlight the highest and lowest total sales values to identify the highest- and lowest-performing product categories.
   
 #### ☑️ PivotTables and PivotCharts
-- Built Pivot tables to analyse sales by gender and product category and sales by generation and product category.
-- Created Pivot charts (stacked column and clustered column charts) to visualise data.
+- Built pivot tables to analyse sales by gender and product category and sales by generation and product category.
+- Created pivot charts (stacked column and clustered column charts) to visualise data.
 - Added slicers to pivot tables to enable interactive filtering by gender, generation and product category.
 ---
 ### 🧩Process
@@ -87,7 +87,7 @@ Used `VLOOKUP` to pull total sales and product category using the transaction ID
 
 
 #### 🔀 PivotTables
-Built PivotTables for easy grouping, comparison and analysis of the dataset and added slicers for interactive filtering.
+Built pivot tables for easy grouping, comparison and analysis of the dataset and added slicers for interactive filtering.
   
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **a) Sales by Gender & Product Category** | **Rows =** Product Category, **Columns =** Gender and **Values =** sum of Sale Total <br> <br>
       <img width="380" height="130" alt="image" src="https://github.com/user-attachments/assets/ef5b6977-d126-452e-9647-c6d286e83182" />
@@ -97,7 +97,7 @@ Built PivotTables for easy grouping, comparison and analysis of the dataset and 
 
 
 #### 📊 PivotCharts
-- Created PivotCharts to visualise insights clearly.
+- Created pivot charts to visualise insights clearly.
   - Clustered column chart comparing product category sales across gender.
   - Stacked column chart illustrating sales distribution by category and generation.
 
