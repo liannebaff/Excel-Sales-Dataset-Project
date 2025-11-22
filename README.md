@@ -131,7 +131,7 @@ During the analysis, I explored customer behaviour, sales trends and product cat
 | Column Name        | Description                                                                 |
 |--------------------|-----------------------------------------------------------------------------|
 | Transaction ID     | Unique identifier for each transaction                                      |
-| Date               | Date of purchase (MM/DD/YYYY format)                                        |
+| Date               | Date of purchase (DD/MM/YYYY format)                                        |
 | Customer ID        | Unique identifier for each customer                                         |
 | Gender             | Gender of the customer (male/female)                                        |
 | Age                | Age of the customer                                                         |
