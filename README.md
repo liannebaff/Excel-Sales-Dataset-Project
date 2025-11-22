@@ -4,7 +4,7 @@
 This repository contains an Excel-based analysis of a synthetic retail sales dataset. The project demonstrates core data analysis skills in Excel, including data transformation, PivotTables/PivotCharts and VLOOKUP. The aim of this project was to practice essential data analytics techniques and extract insights from the dataset.
 
 ### 🎯 Key skills Demonstrated:
-`Data exploration` `Data transformation` `Pivot tables and charts (with slicers)` `VLOOKUP` `Conditional Formatting`
+`Data exploration` `Data transformation` `PivotTables and PivotCharts (with slicers)` `VLOOKUP` `Conditional Formatting`
 
 ### 🗂️ Dataset Overview
 The dataset contains synthetic sales transactions for a retail store, including **customer details** (ID, age, gender, generation), **transaction details** (date, product category, price) and **calculated fields** such as total sales and transaction commission.
@@ -26,8 +26,8 @@ The dataset contains synthetic sales transactions for a retail store, including 
 - Applied conditional formatting to highlight the highest and lowest total sales values to identify the highest- and lowest-performing product categories.
   
 #### ☑️ PivotTables and PivotCharts
-- Built PivotTables to analyse sales by gender and product category and sales by generation and product category.
-- Created PivotCharts (stacked column and clustered column charts) to visualise data.
+- Built Pivot tables to analyse sales by gender and product category and sales by generation and product category.
+- Created Pivot charts (stacked column and clustered column charts) to visualise data.
 - Added slicers to pivot tables to enable interactive filtering by gender, generation and product category.
 ---
 ### 🧩Process
